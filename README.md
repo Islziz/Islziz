@@ -5,7 +5,7 @@
 <div style="text-align: center; margin-bottom: 40px;">
   <img src="assets/img/Myphoto.jpg" alt="Azizjon Islamov" width="180" style="border-radius: 50%; border: 5px solid #333; margin-bottom: 20px;">
   <h1>Azizjon Islamov</h1>
-  <h3>.NET Engineer Trainee (Aspiring)</h3>
+  <h3>Software Development Engineer Trainee </h3>
 </div>
 
 ### Contact
@@ -22,6 +22,9 @@ I am interested in the automation of design and engineering processes, and in en
 ---
 
 ### Experience
+**Software Development Engineer**  
+“AMC Bridge” Inc – Tashkent  
+*01.12.2025 – present*
 **1st level specialist**  
 “Uzcosmos” Space Agency – Tashkent  
 *17.03.2025 – 11.06.2025*
@@ -45,7 +48,7 @@ Huawei Technologies Co. Ltd. – Tashkent
 
 ### Education
 **.NET course** – Soft Club Academy  
-*09.2025 – present*
+*09.2025 – 11.2025 *
 
 **Apple Developer Academy** – Naples, Italy  
 *  
