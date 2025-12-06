@@ -3,13 +3,13 @@
 ---
 
 <div style="text-align: center; margin-bottom: 40px;">
-  <img src="/assets/photo.jpg" alt="Azizjon Islamov" width="180" style="border-radius: 50%; border: 5px solid #333; margin-bottom: 20px;">
+  <img src="assets/img/Myphoto.jpg" alt="Azizjon Islamov" width="180" style="border-radius: 50%; border: 5px solid #333; margin-bottom: 20px;">
   <h1>Azizjon Islamov</h1>
   <h3>.NET Engineer Trainee (Aspiring)</h3>
 </div>
 
 ### Contact
-**Phone**  +998 88 008 4139 | +998 93 313 0372  
+**Phone**   +998 33 133 0372  
 **Email**   comdevsw@gmail.com  
 **Telegram** t.me/islziz  
 **Location** House №12, Geologlar St., M.Ulugbek district, Tashkent, 100050, Uzbekistan  
