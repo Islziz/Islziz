@@ -1,7 +1,7 @@
 
 title: Azizjon Islamov
 logo: /assets/img/Myphoto.jpg  # Path to your profile photo in the repo (upload it first). Comment out if no photo.
-description: .NET Engineer Trainee (Aspiring)  # Short tagline from your resume.
+description: Software Development Engineer Trainee   # Short tagline from your resume.
 show_downloads: false  # Set to true if you want a "Download" link to the repo ZIP.
 google_analytics:  # Add your GA tracking ID here if you have one (optional).
 theme: jekyll-theme-minimal
