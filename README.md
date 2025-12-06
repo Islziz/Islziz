@@ -1,5 +1,5 @@
+
 ---
-# Empty front matter required for Jekyll
 ---
 
 <div style="text-align: center; margin-bottom: 40px;">
