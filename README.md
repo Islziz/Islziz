@@ -25,6 +25,7 @@ I am interested in the automation of design and engineering processes, and in en
 **Software Development Engineer**  
 “AMC Bridge” Inc – Tashkent  
 *01.12.2025 – present*
+
 **1st level specialist**  
 “Uzcosmos” Space Agency – Tashkent  
 *17.03.2025 – 11.06.2025*
